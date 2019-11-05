@@ -20,3 +20,4 @@ We welcome faculty members, PhD students, MI students, BI students and anyone el
 
 ## Tentative Schedule
 
+* Balasaravanan Thoravi Kumaravel, Fraser Anderson, George Fitzmaurice, Bjoern Hartmann, and Tovi Grossman. 2019. Loki: Facilitating Remote Instruction of Physical Tasks Using Bi-Directional Mixed-Reality Telepresence. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19). ACM, New York, NY, USA, 161-174. DOI: https://doi.org/10.1145/3332165.3347872
