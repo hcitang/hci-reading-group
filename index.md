@@ -5,7 +5,7 @@ The iSchool HCI/UX reading group is an informal reading group that meets once a 
 We welcome faculty members, PhD students, MI students, BI students and anyone else interested in HCI/UX issues. Most importantly, we welcome first-time attendees at every meeting.
 
 ## Meetings
-* 
+* blah blahb (asdlkfjasdf)
 
 ## What you should expect
 * A 5-10 mini-presentation about the paper being discussed that week by someone leading the discussion.
