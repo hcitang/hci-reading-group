@@ -5,7 +5,7 @@ The iSchool HCI/UX reading group is an informal reading group that meets once a 
 We welcome faculty members, PhD students, MI students, BI students and anyone else interested in HCI/UX issues. Most importantly, we welcome first-time attendees at every meeting.
 
 ## Meetings
-* blah blahb (asdlkfjasdf)
+* Wednesdays, 4pm-5pm, BL626 
 
 ## What you should expect
 * A 5-10 mini-presentation about the paper being discussed that week by someone leading the discussion.
@@ -18,6 +18,9 @@ We welcome faculty members, PhD students, MI students, BI students and anyone el
 * Use this as an opportunity to brainstorm ideas with others
 * Use this as an opportunity to practice research presentations
 
+## Questions?
+* Please contact [Tony Tang](https://ischool.utoronto.ca/profile/tony-tang/)
+
 ## Tentative Schedule
 
-* Balasaravanan Thoravi Kumaravel, Fraser Anderson, George Fitzmaurice, Bjoern Hartmann, and Tovi Grossman. 2019. Loki: Facilitating Remote Instruction of Physical Tasks Using Bi-Directional Mixed-Reality Telepresence. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19). ACM, New York, NY, USA, 161-174. DOI: https://doi.org/10.1145/3332165.3347872
+* Tony Tang (Nov 13, 2019): Balasaravanan Thoravi Kumaravel, Fraser Anderson, George Fitzmaurice, Bjoern Hartmann, and Tovi Grossman. 2019. Loki: Facilitating Remote Instruction of Physical Tasks Using Bi-Directional Mixed-Reality Telepresence. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19). ACM, New York, NY, USA, 161-174. DOI: https://doi.org/10.1145/3332165.3347872
