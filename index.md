@@ -23,6 +23,8 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Tentative Schedule
 
+* Michelle (Nov 27, 2019): Sebastian Oberdörfer, David Heidrich, and Marc Erich Latoschik. 2019. Usability of Gamified Knowledge Learning in VR and Desktop-3D. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 175, 13 pages. DOI: https://doi.org/10.1145/3290605.3300405
+
 * Velian Pandeliev (Nov 20, 2019): Sarah Foley, Daniel Welsh, Nadia Pantidi, Kellie Morrissey, Tom Nappey, and John McCarthy. 2019. Printer Pals: Experience-Centered Design to Support Agency for People with Dementia. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 404, 13 pages. DOI: https://doi.org/10.1145/3290605.3300634
 
 * Tony Tang (Nov 13, 2019): Balasaravanan Thoravi Kumaravel, Fraser Anderson, George Fitzmaurice, Bjoern Hartmann, and Tovi Grossman. 2019. Loki: Facilitating Remote Instruction of Physical Tasks Using Bi-Directional Mixed-Reality Telepresence. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19). ACM, New York, NY, USA, 161-174. DOI: https://doi.org/10.1145/3332165.3347872
