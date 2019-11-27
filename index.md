@@ -23,6 +23,10 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Tentative Schedule
 
+* Yaxi (Dec 11, 2019): Shan-Yuan Teng, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, and Bing-Yu Chen. 2019. TilePoP: Tile-type Pop-up Prop for Virtual Reality. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19). ACM, New York, NY, USA, 639-649. DOI: https://doi.org/10.1145/3332165.3347958
+
+* Sho (Dec 4, 2019): Mohamed Khamis, Nora Schuster, Ceenu George, and Max Pfeiffer. 2019. ElectroCutscenes: Realistic Haptic Feedback in Cutscenes of Virtual Reality Games Using Electric Muscle Stimulation. In 25th ACM Symposium on Virtual Reality Software and Technology (VRST '19), Tomas Trescak, Simeon Simoff, Deborah Richards, Anton Bogdanovych, Thierry Duval, Torsten Kuhlen, Huyen Nguyen, Shigeo Morishima, Yuichi Itoh, Richard Skarbez, Anton Bogdanovych, and Martin Masek (Eds.). ACM, New York, NY, USA, Article 13, 10 pages. DOI: https://doi.org/10.1145/3359996.3364250
+
 * Michelle (Nov 27, 2019): Sebastian Oberdörfer, David Heidrich, and Marc Erich Latoschik. 2019. Usability of Gamified Knowledge Learning in VR and Desktop-3D. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 175, 13 pages. DOI: https://doi.org/10.1145/3290605.3300405
 
 * Velian Pandeliev (Nov 20, 2019): Sarah Foley, Daniel Welsh, Nadia Pantidi, Kellie Morrissey, Tom Nappey, and John McCarthy. 2019. Printer Pals: Experience-Centered Design to Support Agency for People with Dementia. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 404, 13 pages. DOI: https://doi.org/10.1145/3290605.3300634
