@@ -24,7 +24,7 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 ## Upcoming Paper Schedule
 * Michelle (Jan 22, 2019): Practice Job Talk
 
-* Tony (Jan 29, 2019): Laurensia Anjani, Terrance Mok, Anthony Tang, Lora Oehlberg, Wooi Boon Goh. 2020. Why do people watch others eat food? An empirical study on the motivations and practices of mukbang viewers. 
+* Tony (Jan 29, 2019): Laurensia Anjani, Terrance Mok, Anthony Tang, Lora Oehlberg, Wooi Boon Goh. 2020. [Why do people watch others eat food? An empirical study on the motivations and practices of mukbang viewers](http://hcitang.org/papers/2020-chi2020-mukbang.pdf). CHI 2020.
 
 * Zhao (Feb 5, 2019)
 
