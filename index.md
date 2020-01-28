@@ -22,18 +22,18 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 * Please contact [Tony Tang](https://ischool.utoronto.ca/profile/tony-tang/)
 
 ## Upcoming Paper Schedule
-* Michelle (Jan 22, 2019): Practice Job Talk
-
 * Tony (Jan 29, 2019): Laurensia Anjani, Terrance Mok, Anthony Tang, Lora Oehlberg, Wooi Boon Goh. 2020. [Why do people watch others eat food? An empirical study on the motivations and practices of mukbang viewers](http://hcitang.org/papers/2020-chi2020-mukbang.pdf). CHI 2020.
 
-* Zhao (Feb 5, 2019)
+* Zhao (Feb 5, 2019): Zhicong Lu, Michelle Annett, Mingming Fan, and Daniel Wigdor. 2019. “I feel it is my responsibility to stream”: Streaming and Engaging with Intangible Cultural Heritage through Livestreaming. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Paper 229, 1–14. DOI:https://doi.org/10.1145/3290605.3300459
 
 * Sho (Feb 12, 2019)
 
 * *Reading Break*
 
 ## Previous Papers
-* Yaxi (January Something, 2019): Shan-Yuan Teng, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, and Bing-Yu Chen. 2019. TilePoP: Tile-type Pop-up Prop for Virtual Reality. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19). ACM, New York, NY, USA, 639-649. DOI: https://doi.org/10.1145/3332165.3347958
+* Michelle (Jan 22, 2019): Practice Job Talk
+
+* Yaxi (Jan 15, 2019): Shan-Yuan Teng, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, and Bing-Yu Chen. 2019. TilePoP: Tile-type Pop-up Prop for Virtual Reality. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19). ACM, New York, NY, USA, 639-649. DOI: https://doi.org/10.1145/3332165.3347958
 
 * Zhao (Dec 11, 2019): Randi Williams, Hae Won Park, and Cynthia Breazeal. 2019. A is for Artificial Intelligence: The Impact of Artificial Intelligence Activities on Young Children's Perceptions of Robots. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 447, 11 pages. DOI: https://doi.org/10.1145/3290605.3300677
 
