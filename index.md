@@ -23,13 +23,14 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* Zhao (Feb 5, 2019): Zhicong Lu, Michelle Annett, Mingming Fan, and Daniel Wigdor. 2019. “I feel it is my responsibility to stream”: Streaming and Engaging with Intangible Cultural Heritage through Livestreaming. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Paper 229, 1–14. DOI:https://doi.org/10.1145/3290605.3300459
-
-* Sho (Feb 12, 2019)
+* Velian (Feb 12, 2019) - UX ideas for supporting assessment in UX Education (for EduCHI)
 
 * *Reading Break*
 
 ## Previous Papers
+
+* Zhao (Feb 5, 2019): Zhicong Lu, Michelle Annett, Mingming Fan, and Daniel Wigdor. 2019. “I feel it is my responsibility to stream”: Streaming and Engaging with Intangible Cultural Heritage through Livestreaming. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Paper 229, 1–14. DOI:https://doi.org/10.1145/3290605.3300459
+
 * Tony (Jan 29, 2019): Laurensia Anjani, Terrance Mok, Anthony Tang, Lora Oehlberg, Wooi Boon Goh. 2020. [Why do people watch others eat food? An empirical study on the motivations and practices of mukbang viewers](http://hcitang.org/papers/2020-chi2020-mukbang.pdf). CHI 2020.
 
 * Michelle (Jan 22, 2019): Practice Job Talk
