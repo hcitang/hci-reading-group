@@ -23,19 +23,21 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* Velian (Feb 12, 2019) - UX ideas for supporting assessment in UX Education (for EduCHI)
+* Velian (Feb 12, 2020) - UX ideas for supporting assessment in UX Education (for EduCHI)
 
 * *Reading Break*
 
+* Jaisie (Mar 11, 2020) - Waycott, J., Vetere, F., Pedell, S., Morgans, A., Ozanne, E., & Kulik, L. (2016, May). Not for me: Older adults choosing not to participate in a social isolation intervention. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (pp. 745-757).
+
 ## Previous Papers
 
-* Zhao (Feb 5, 2019): Zhicong Lu, Michelle Annett, Mingming Fan, and Daniel Wigdor. 2019. “I feel it is my responsibility to stream”: Streaming and Engaging with Intangible Cultural Heritage through Livestreaming. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Paper 229, 1–14. DOI:https://doi.org/10.1145/3290605.3300459
+* Zhao (Feb 5, 2020): Zhicong Lu, Michelle Annett, Mingming Fan, and Daniel Wigdor. 2019. “I feel it is my responsibility to stream”: Streaming and Engaging with Intangible Cultural Heritage through Livestreaming. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Paper 229, 1–14. DOI:https://doi.org/10.1145/3290605.3300459
 
-* Tony (Jan 29, 2019): Laurensia Anjani, Terrance Mok, Anthony Tang, Lora Oehlberg, Wooi Boon Goh. 2020. [Why do people watch others eat food? An empirical study on the motivations and practices of mukbang viewers](http://hcitang.org/papers/2020-chi2020-mukbang.pdf). CHI 2020.
+* Tony (Jan 29, 2020): Laurensia Anjani, Terrance Mok, Anthony Tang, Lora Oehlberg, Wooi Boon Goh. 2020. [Why do people watch others eat food? An empirical study on the motivations and practices of mukbang viewers](http://hcitang.org/papers/2020-chi2020-mukbang.pdf). CHI 2020.
 
-* Michelle (Jan 22, 2019): Practice Job Talk
+* Michelle (Jan 22, 2020): Practice Job Talk
 
-* Yaxi (Jan 15, 2019): Shan-Yuan Teng, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, and Bing-Yu Chen. 2019. TilePoP: Tile-type Pop-up Prop for Virtual Reality. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19). ACM, New York, NY, USA, 639-649. DOI: https://doi.org/10.1145/3332165.3347958
+* Yaxi (Jan 15, 2020): Shan-Yuan Teng, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, and Bing-Yu Chen. 2019. TilePoP: Tile-type Pop-up Prop for Virtual Reality. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19). ACM, New York, NY, USA, 639-649. DOI: https://doi.org/10.1145/3332165.3347958
 
 * Zhao (Dec 11, 2019): Randi Williams, Hae Won Park, and Cynthia Breazeal. 2019. A is for Artificial Intelligence: The Impact of Artificial Intelligence Activities on Young Children's Perceptions of Robots. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 447, 11 pages. DOI: https://doi.org/10.1145/3290605.3300677
 
