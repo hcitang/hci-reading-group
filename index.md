@@ -25,6 +25,8 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 * Tony (Mar 4, 2020) - Michael Massimi and Ronald M. Baecker. 2010. A death in the family: opportunities for designing technologies for the bereaved. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’10). Association for Computing Machinery, New York, NY, USA, 1821–1830. DOI:https://doi.org/10.1145/1753326.1753600
 
+* Jaisie (Mar 11, 2020) - Waycott, J., Vetere, F., Pedell, S., Morgans, A., Ozanne, E., & Kulik, L. (2016, May). Not for me: Older adults choosing not to participate in a social isolation intervention. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (pp. 745-757).
+
 ## Previous Papers
 
 * Sho (Feb 27, 2020) - Virtual reality among the elderly: a usefulness and acceptance study from Taiwan - https://bmcgeriatr.biomedcentral.com/track/pdf/10.1186/s12877-019-1218-8
