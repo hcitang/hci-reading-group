@@ -23,8 +23,9 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* Jaisie (Mar 11, 2020) - Sharing some work in progress
+* Simon (Mar 18, 2020) - Susanne Bødker and Morten Kyng. 2018. Participatory Design that Matters—Facing the Big Issues. ACM Trans. Comput.-Hum. Interact. 25, 1, Article 4 (February 2018), 31 pages. DOI:https://doi.org/10.1145/3152421
 
+* Jaisie (Mar 11, 2020) - Sharing some work in progress
 
 ## Previous Papers
 
