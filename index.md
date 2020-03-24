@@ -23,11 +23,13 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* Simon (Mar 18, 2020) - Susanne Bødker and Morten Kyng. 2018. Participatory Design that Matters—Facing the Big Issues. ACM Trans. Comput.-Hum. Interact. 25, 1, Article 4 (February 2018), 31 pages. DOI:https://doi.org/10.1145/3152421
-
-* Jaisie (Mar 11, 2020) - Sharing some work in progress
+* Simon (Mar 25, 2020) - Susanne Bødker and Morten Kyng. 2018. Participatory Design that Matters—Facing the Big Issues. ACM Trans. Comput.-Hum. Interact. 25, 1, Article 4 (February 2018), 31 pages. DOI:https://doi.org/10.1145/3152421
 
 ## Previous Papers
+
+* COVID-19 (Mar 18, 2020) - Canceled
+
+* Jaisie (Mar 11, 2020) - Work in progress
 
 * Tony (Mar 4, 2020) - Michael Massimi and Ronald M. Baecker. 2010. A death in the family: opportunities for designing technologies for the bereaved. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’10). Association for Computing Machinery, New York, NY, USA, 1821–1830. DOI:https://doi.org/10.1145/1753326.1753600
 
