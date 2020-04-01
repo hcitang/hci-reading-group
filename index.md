@@ -23,9 +23,13 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* Simon (Mar 25, 2020) - Susanne Bødker and Morten Kyng. 2018. Participatory Design that Matters—Facing the Big Issues. ACM Trans. Comput.-Hum. Interact. 25, 1, Article 4 (February 2018), 31 pages. DOI:https://doi.org/10.1145/3152421
+* Sho (April 8, 2020) - 
 
 ## Previous Papers
+
+* Andrey (April 1, 2020) - Work-in-Progress: Virtual Reality Games from reviewers
+
+* Simon (Mar 25, 2020) - Susanne Bødker and Morten Kyng. 2018. Participatory Design that Matters—Facing the Big Issues. ACM Trans. Comput.-Hum. Interact. 25, 1, Article 4 (February 2018), 31 pages. DOI:https://doi.org/10.1145/3152421
 
 * COVID-19 (Mar 18, 2020) - Canceled
 
