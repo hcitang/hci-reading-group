@@ -23,7 +23,7 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* Sho (April 8, 2020) - 
+* Sho (April 8, 2020) - Interrogating Social Virtual Reality as a Communication Medium for Older Adults from the Interaction Design Lab @ the University of Melbourne - https://dl.acm.org/doi/pdf/10.1145/3359251
 
 ## Previous Papers
 
