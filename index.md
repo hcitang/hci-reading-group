@@ -5,7 +5,7 @@ The iSchool HCI/UX reading group is an informal reading group that meets once a 
 We welcome faculty members, post-docs, PhD students, MI students, BI students and anyone else interested in HCI/UX issues. Most importantly, we welcome first-time attendees at every meeting.
 
 ## Meetings
-* Wednesdays, 3:30pm-4:30pm, BL626
+* Wednesdays, 1:00pm-2:00pm, online!
 
 ## What you should expect
 * A 5-10 mini-presentation about the paper being discussed that week by someone leading the discussion.
@@ -23,9 +23,11 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* Sho (April 8, 2020) - Interrogating Social Virtual Reality as a Communication Medium for Older Adults from the Interaction Design Lab @ the University of Melbourne - https://dl.acm.org/doi/pdf/10.1145/3359251
+* Everyone (April 15, 2020) - 2 Minute Madness
 
 ## Previous Papers
+
+* Sho (April 8, 2020) - Interrogating Social Virtual Reality as a Communication Medium for Older Adults from the Interaction Design Lab @ the University of Melbourne - https://dl.acm.org/doi/pdf/10.1145/3359251
 
 * Andrey (April 1, 2020) - Work-in-Progress: Virtual Reality Games from reviewers
 
