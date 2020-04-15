@@ -23,9 +23,18 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* Everyone (April 15, 2020) - 2 Minute Madness
+* April 29 - Tony - Lee, G. et al. (2020) - A User Study on View-sharing Techniques for One-to-Many Mixed Reality Collaborations. https://conferences.computer.org/vr-tvcg/2020/pdfs/VR2020-2f8MzUJjtCXG6Ue9RYFSN2/560800a343/560800a343.pdf
+* May 6 - Brennan
+* May 13 - Aaron
+* May 20 - Paul
+* May 27 - Yaxi
+* June 3 - Karthik
+* June 10 - Velian
+* June 17 - Scott
 
 ## Previous Papers
+
+* Everyone (April 15, 2020) - 2 Minute Madness
 
 * Sho (April 8, 2020) - Interrogating Social Virtual Reality as a Communication Medium for Older Adults from the Interaction Design Lab @ the University of Melbourne - https://dl.acm.org/doi/pdf/10.1145/3359251
 
