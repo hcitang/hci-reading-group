@@ -23,16 +23,17 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* April 29 - Tony - Lee, G. et al. (2020) - A User Study on View-sharing Techniques for One-to-Many Mixed Reality Collaborations. https://conferences.computer.org/vr-tvcg/2020/pdfs/VR2020-2f8MzUJjtCXG6Ue9RYFSN2/560800a343/560800a343.pdf
-* May 6 - Brennan
+* May 6 - Brennan - Ville Mäkelä, Rivu Radiah, Saleh Alsherif, Mohamed Khamis, Chong Xiao, Lisa Borchert, Albrecht Schmidt, and Florian Alt. 2020. Virtual Field Studies: Conducting Studies on Public Displays in Virtual Reality. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/3313831.3376796
 * May 13 - Aaron
 * May 20 - Paul
-* May 27 - Yaxi
-* June 3 - Karthik
+* May 27 - Karthik
+* June 3 - Yaxi
 * June 10 - Velian
 * June 17 - Scott
 
 ## Previous Papers
+
+* April 29 - Tony - Lee, G. et al. (2020) - A User Study on View-sharing Techniques for One-to-Many Mixed Reality Collaborations. https://conferences.computer.org/vr-tvcg/2020/pdfs/VR2020-2f8MzUJjtCXG6Ue9RYFSN2/560800a343/560800a343.pdf
 
 * Everyone (April 15, 2020) - 2 Minute Madness
 
