@@ -23,15 +23,16 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* May 6 - Brennan - Ville Mäkelä, Rivu Radiah, Saleh Alsherif, Mohamed Khamis, Chong Xiao, Lisa Borchert, Albrecht Schmidt, and Florian Alt. 2020. Virtual Field Studies: Conducting Studies on Public Displays in Virtual Reality. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/3313831.3376796
 * May 13 - Aaron - Balli F. Developing Digital Games to Address Airway Clearance Therapy in Children With Cystic Fibrosis: Participatory Design Process. JMIR Serious Games 2018. DOI: 10.2196/games.8964 - https://games.jmir.org/2018/4/e18/
 * May 20 - Paul
 * May 27 - Karthik
 * June 3 - Yaxi
-* June 10 - Velian
+* June 10 - Terrance
 * June 17 - Scott
 
 ## Previous Papers
+
+* May 6 - Brennan - Ville Mäkelä, Rivu Radiah, Saleh Alsherif, Mohamed Khamis, Chong Xiao, Lisa Borchert, Albrecht Schmidt, and Florian Alt. 2020. Virtual Field Studies: Conducting Studies on Public Displays in Virtual Reality. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/3313831.3376796
 
 * April 29 - Tony - Lee, G. et al. (2020) - A User Study on View-sharing Techniques for One-to-Many Mixed Reality Collaborations. https://conferences.computer.org/vr-tvcg/2020/pdfs/VR2020-2f8MzUJjtCXG6Ue9RYFSN2/560800a343/560800a343.pdf
 
