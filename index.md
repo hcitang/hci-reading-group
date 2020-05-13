@@ -23,43 +23,17 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* May 13 - Aaron - Balli F. Developing Digital Games to Address Airway Clearance Therapy in Children With Cystic Fibrosis: Participatory Design Process. JMIR Serious Games 2018. DOI: 10.2196/games.8964 - https://games.jmir.org/2018/4/e18/
-* May 20 - Paul
-* May 27 - Karthik
-* June 3 - Yaxi
-* June 10 - Terrance
+* May 20 - Paul - McIlvenny, P. (2019). Inhabiting spatial video and audio data: Towards a scenographic turn in the analysis of social interaction. Social Interaction: Video-Based Studies of Human Sociality 2(1). - https://tidsskrift.dk/socialinteraction/article/view/110409/159690
+* May 27 - Karthik - 
+* June 3 - Yaxi - 
+* June 10 - Terrance - Saelyne Yang, Changyoon Lee, Hijung Valentina Shin, and Juho Kim. 2020. Snapstream: Snapshot-based Interaction in Live Streaming for Visual Art. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–12. DOI:https://doi.org/10.1145/3313831.3376390
 * June 17 - Scott
 
 ## Previous Papers
 
+* May 13 - Aaron - Balli F. Developing Digital Games to Address Airway Clearance Therapy in Children With Cystic Fibrosis: Participatory Design Process. JMIR Serious Games 2018. DOI: 10.2196/games.8964 - https://games.jmir.org/2018/4/e18/
+
 * May 6 - Brennan - Ville Mäkelä, Rivu Radiah, Saleh Alsherif, Mohamed Khamis, Chong Xiao, Lisa Borchert, Albrecht Schmidt, and Florian Alt. 2020. Virtual Field Studies: Conducting Studies on Public Displays in Virtual Reality. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/3313831.3376796
 
-* April 29 - Tony - Lee, G. et al. (2020) - A User Study on View-sharing Techniques for One-to-Many Mixed Reality Collaborations. https://conferences.computer.org/vr-tvcg/2020/pdfs/VR2020-2f8MzUJjtCXG6Ue9RYFSN2/560800a343/560800a343.pdf
-
-* Everyone (April 15, 2020) - 2 Minute Madness
-
-* Sho (April 8, 2020) - Interrogating Social Virtual Reality as a Communication Medium for Older Adults from the Interaction Design Lab @ the University of Melbourne - https://dl.acm.org/doi/pdf/10.1145/3359251
-
-* Andrey (April 1, 2020) - Work-in-Progress: Virtual Reality Games from reviewers
-
-* Simon (Mar 25, 2020) - Susanne Bødker and Morten Kyng. 2018. Participatory Design that Matters—Facing the Big Issues. ACM Trans. Comput.-Hum. Interact. 25, 1, Article 4 (February 2018), 31 pages. DOI:https://doi.org/10.1145/3152421
-
-* COVID-19 (Mar 18, 2020) - Canceled
-
-* Jaisie (Mar 11, 2020) - Work in progress
-
-* Tony (Mar 4, 2020) - Michael Massimi and Ronald M. Baecker. 2010. A death in the family: opportunities for designing technologies for the bereaved. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’10). Association for Computing Machinery, New York, NY, USA, 1821–1830. DOI:https://doi.org/10.1145/1753326.1753600
-
-* Sho (Feb 27, 2020) - Virtual reality among the elderly: a usefulness and acceptance study from Taiwan - https://bmcgeriatr.biomedcentral.com/track/pdf/10.1186/s12877-019-1218-8
-
-* Velian (Feb 12, 2020) - UX ideas for supporting assessment in UX Education (for EduCHI)
-
-* Zhao (Feb 5, 2020): Zhicong Lu, Michelle Annett, Mingming Fan, and Daniel Wigdor. 2019. “I feel it is my responsibility to stream”: Streaming and Engaging with Intangible Cultural Heritage through Livestreaming. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Paper 229, 1–14. DOI:https://doi.org/10.1145/3290605.3300459
-
-* Tony (Jan 29, 2020): Laurensia Anjani, Terrance Mok, Anthony Tang, Lora Oehlberg, Wooi Boon Goh. 2020. [Why do people watch others eat food? An empirical study on the motivations and practices of mukbang viewers](http://hcitang.org/papers/2020-chi2020-mukbang.pdf). CHI 2020.
-
-* Michelle (Jan 22, 2020): Practice Job Talk
-
-* Yaxi (Jan 15, 2020): Shan-Yuan Teng, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, and Bing-Yu Chen. 2019. TilePoP: Tile-type Pop-up Prop for Virtual Reality. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19). ACM, New York, NY, USA, 639-649. DOI: https://doi.org/10.1145/3332165.3347958
 
 [Archive](archive.md)
