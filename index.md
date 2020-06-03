@@ -24,7 +24,7 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 ## Upcoming Paper Schedule
 
 * June 10 - Audrey - Jan Gugenheimer, Evgeny Stemasov, Julian Frommel, and Enrico Rukzio. 2017. ShareVR: Enabling Co-Located Experiences for Virtual Reality between HMD and Non-HMD Users. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI ’17). Association for Computing Machinery, New York, NY, USA, 4021–4033. DOI:https://doi.org/10.1145/3025453.3025683 (demo: https://youtu.be/cQxArK3Bu9M)
-* June 17 - Blaine - 
+* June 17 - Blaine - Michael Correll, Enrico Bertini, and Steven Franconeri. 2020. Truncating the Y-Axis: Threat or Menace? In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–12. DOI:https://doi.org/10.1145/3313831.3376222
 * June 24 - Scott - 
 * July 1 - Canada Day!
 * July 8 - Christine
