@@ -23,17 +23,18 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
+* June 3 - Yaxi - Minsuk Chang, Anh Truong, Oliver Wang, Maneesh Agrawala, and Juho Kim. 2019. How to Design Voice Based Navigation for How-To Videos. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Paper 701, 1–11. DOI:https://doi.org/10.1145/3290605.3300931
 * June 10 - Audrey - Jan Gugenheimer, Evgeny Stemasov, Julian Frommel, and Enrico Rukzio. 2017. ShareVR: Enabling Co-Located Experiences for Virtual Reality between HMD and Non-HMD Users. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI ’17). Association for Computing Machinery, New York, NY, USA, 4021–4033. DOI:https://doi.org/10.1145/3025453.3025683 (demo: https://youtu.be/cQxArK3Bu9M)
-* June 17 - Blaine - Michael Correll, Enrico Bertini, and Steven Franconeri. 2020. Truncating the Y-Axis: Threat or Menace? In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–12. DOI:https://doi.org/10.1145/3313831.3376222
-* June 24 - Scott - 
+* June 17 - Blaine - 
+* June 24 - Scott - Michel Beaudouin-Lafon. 2004. Designing interaction, not interfaces. In Proceedings of the working conference on Advanced visual interfaces (AVI ’04). Association for Computing Machinery, New York, NY, USA, 15–22. DOI:https://doi.org/10.1145/989863.989865
 * July 1 - Canada Day!
 * July 8 - Christine
+* July 15 - Ian
+* July 22 - Connor
 
 * Postponed - Terrance - Saelyne Yang, Changyoon Lee, Hijung Valentina Shin, and Juho Kim. 2020. Snapstream: Snapshot-based Interaction in Live Streaming for Visual Art. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–12. DOI:https://doi.org/10.1145/3313831.3376390
 
 ## Previous Papers
-
-* June 3 - Yaxi - Minsuk Chang, Anh Truong, Oliver Wang, Maneesh Agrawala, and Juho Kim. 2019. How to Design Voice Based Navigation for How-To Videos. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Paper 701, 1–11. DOI:https://doi.org/10.1145/3290605.3300931
 
 * May 27 - Karthik - Ryo Suzuki, Hooman Hedayati, Clement Zheng, James L. Bohn, Daniel Szafir, Ellen Yi-Luen Do, Mark D. Gross, and Daniel Leithinger. 2020. RoomShift: Room-scale Dynamic Haptics for VR with Furniture-moving Swarm Robots. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–11. DOI:https://doi.org/10.1145/3313831.3376523
 
