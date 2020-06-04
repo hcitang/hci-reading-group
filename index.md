@@ -27,7 +27,7 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 * June 17 - Blaine - Michael Correll, Enrico Bertini, and Steven Franconeri. 2020. Truncating the Y-Axis: Threat or Menace? In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–12. DOI:https://doi.org/10.1145/3313831.3376222
 * June 24 - Scott - Michel Beaudouin-Lafon. 2004. Designing interaction, not interfaces. In Proceedings of the working conference on Advanced visual interfaces (AVI ’04). Association for Computing Machinery, New York, NY, USA, 15–22. DOI:https://doi.org/10.1145/989863.989865
 * July 1 - Canada Day!
-* July 8 - Christine
+* July 8 - Christine - Jakob Nielsen. 1994. Enhancing the explanatory power of usability heuristics. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’94). Association for Computing Machinery, New York, NY, USA, 152–158. DOI:https://doi.org/10.1145/191666.191729
 * July 15 - Ian
 * July 22 - Connor
 
