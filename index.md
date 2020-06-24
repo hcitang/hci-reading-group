@@ -25,10 +25,10 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 * June 24 - Scott - Michel Beaudouin-Lafon. 2004. Designing interaction, not interfaces. In Proceedings of the working conference on Advanced visual interfaces (AVI ’04). Association for Computing Machinery, New York, NY, USA, 15–22. DOI:https://doi.org/10.1145/989863.989865
 * July 1 - Canada Day!
-* July 8 - Christine - Jakob Nielsen. 1994. Enhancing the explanatory power of usability heuristics. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’94). Association for Computing Machinery, New York, NY, USA, 152–158. DOI:https://doi.org/10.1145/191666.191729
-* July 15 - Ian
-* July 22 - Connor
-* July 29 - Tony - Reading Group Navel Gazing
+* July 8 - Tony - Reading Group Navel Gazing
+* July 15 - Christine - Jakob Nielsen. 1994. Enhancing the explanatory power of usability heuristics. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’94). Association for Computing Machinery, New York, NY, USA, 152–158. DOI:https://doi.org/10.1145/191666.191729
+* July 22 - Ian
+* July 29 - Connor
 
 * Postponed - Terrance - Saelyne Yang, Changyoon Lee, Hijung Valentina Shin, and Juho Kim. 2020. Snapstream: Snapshot-based Interaction in Live Streaming for Visual Art. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–12. DOI:https://doi.org/10.1145/3313831.3376390
 
