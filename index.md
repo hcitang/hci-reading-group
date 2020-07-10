@@ -27,8 +27,6 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 * July 22 - Ian
 * July 29 - Connor
 
-* Postponed - Terrance - Saelyne Yang, Changyoon Lee, Hijung Valentina Shin, and Juho Kim. 2020. Snapstream: Snapshot-based Interaction in Live Streaming for Visual Art. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–12. DOI:https://doi.org/10.1145/3313831.3376390
-
 ## Previous Papers
 
 
