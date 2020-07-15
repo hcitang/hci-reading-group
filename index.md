@@ -23,12 +23,13 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* July 15 - Christine - Jakob Nielsen. 1994. Enhancing the explanatory power of usability heuristics. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’94). Association for Computing Machinery, New York, NY, USA, 152–158. DOI:https://doi.org/10.1145/191666.191729
-* July 22 - Ian
+* July 22 - Ian - Duygu Sevinç & Mergül Çolak (2019) The effect of electronic body protector and gamification on the performance of taekwondo athletes, International Journal of Performance Analysis in Sport, 19:1, 110-120, DOI: https://doi.org/10.1080/24748668.2019.1570457
+
 * July 29 - Connor
 
 ## Previous Papers
 
+* July 15 - Christine - Jakob Nielsen. 1994. Enhancing the explanatory power of usability heuristics. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’94). Association for Computing Machinery, New York, NY, USA, 152–158. DOI:https://doi.org/10.1145/191666.191729
 
 * June 24 - Scott - Michel Beaudouin-Lafon. 2004. Designing interaction, not interfaces. In Proceedings of the working conference on Advanced visual interfaces (AVI ’04). Association for Computing Machinery, New York, NY, USA, 15–22. DOI:https://doi.org/10.1145/989863.989865
 
