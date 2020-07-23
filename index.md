@@ -23,11 +23,11 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* July 22 - Ian - Duygu Sevinç & Mergül Çolak (2019) The effect of electronic body protector and gamification on the performance of taekwondo athletes, International Journal of Performance Analysis in Sport, 19:1, 110-120, DOI: https://doi.org/10.1080/24748668.2019.1570457
-
-* July 29 - Connor
+* July 29 - Connor - Brendan Spillane, Isla Hoe, Mike Brady, Vincent Wade, and Séamus Lawless. 2020. Tabloidization versus Credibility: Short Term Gain for Long Term Pain. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/3313831.3376388
 
 ## Previous Papers
+
+* July 22 - Ian - Duygu Sevinç & Mergül Çolak (2019) The effect of electronic body protector and gamification on the performance of taekwondo athletes, International Journal of Performance Analysis in Sport, 19:1, 110-120, DOI: https://doi.org/10.1080/24748668.2019.1570457
 
 * July 15 - Christine - Jakob Nielsen. 1994. Enhancing the explanatory power of usability heuristics. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’94). Association for Computing Machinery, New York, NY, USA, 152–158. DOI:https://doi.org/10.1145/191666.191729
 
