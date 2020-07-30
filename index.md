@@ -22,10 +22,14 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 * Please contact [Tony Tang](https://ischool.utoronto.ca/profile/tony-tang/)
 
 ## Upcoming Paper Schedule
+* Aug 5 - Andrey - Mike Fraser, Tony Glover, Ivan Vaghi, Steve Benford, Chris Greenhalgh, Jon Hindmarsh, and Christian Heath. 2000. Revealing the realities of collaborative virtual reality. In Proceedings of the third international conference on Collaborative virtual environments (CVE ’00). Association for Computing Machinery, New York, NY, USA, 29–37. DOI:https://doi.org/10.1145/351006.351010
 
-* July 29 - Connor - Brendan Spillane, Isla Hoe, Mike Brady, Vincent Wade, and Séamus Lawless. 2020. Tabloidization versus Credibility: Short Term Gain for Long Term Pain. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/3313831.3376388
+* Aug 12 - Tammy
+
+* Aug 19 - Ellie - Mike E.U. Ligthart, Mark A. Neerincx, and Koen V. Hindriks. 2020. Design Patterns for an Interactive Storytelling Robot to Support Children’s Engagement and Agency. In Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’20). Association for Computing Machinery, New York, NY, USA, 409–418. DOI:https://doi.org/10.1145/3319502.3374826
 
 ## Previous Papers
+* July 29 - Connor - Brendan Spillane, Isla Hoe, Mike Brady, Vincent Wade, and Séamus Lawless. 2020. Tabloidization versus Credibility: Short Term Gain for Long Term Pain. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/3313831.3376388
 
 * July 22 - Ian - Duygu Sevinç & Mergül Çolak (2019) The effect of electronic body protector and gamification on the performance of taekwondo athletes, International Journal of Performance Analysis in Sport, 19:1, 110-120, DOI: https://doi.org/10.1080/24748668.2019.1570457
 
