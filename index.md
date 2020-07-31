@@ -28,6 +28,8 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 * Aug 19 - Ellie - Mike E.U. Ligthart, Mark A. Neerincx, and Koen V. Hindriks. 2020. Design Patterns for an Interactive Storytelling Robot to Support Children’s Engagement and Agency. In Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’20). Association for Computing Machinery, New York, NY, USA, 409–418. DOI:https://doi.org/10.1145/3319502.3374826
 
+* Aug 26 - Samridhi - 
+
 ## Previous Papers
 * July 29 - Connor - Brendan Spillane, Isla Hoe, Mike Brady, Vincent Wade, and Séamus Lawless. 2020. Tabloidization versus Credibility: Short Term Gain for Long Term Pain. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/3313831.3376388
 
