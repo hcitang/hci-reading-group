@@ -25,6 +25,9 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 * Aug 26 - Samridhi - Hemant Bhaskar Surale, Aakar Gupta, Mark Hancock, and Daniel Vogel. 2019. TabletInVR: Exploring the Design Space for Using a Multi-Touch Tablet in Virtual Reality. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Paper 13, 1–13. DOI:https://doi.org/10.1145/3290605.3300243
 
+* Sept 2 - Sydney - Martijn J.L. Kors, Gabriele Ferri, Erik D. van der Spek, Cas Ketel, and Ben A.M. Schouten. 2016. A Breathtaking Journey. On the Design of an Empathy-Arousing Mixed-Reality Game. In Proceedings of the 2016 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY ’16). Association for Computing Machinery, New York, NY, USA, 91–104. DOI:https://doi.org/10.1145/2967934.2968110
+
+
 ## Previous Papers
 
 * Aug 19 - Ellie - Mike E.U. Ligthart, Mark A. Neerincx, and Koen V. Hindriks. 2020. Design Patterns for an Interactive Storytelling Robot to Support Children’s Engagement and Agency. In Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’20). Association for Computing Machinery, New York, NY, USA, 409–418. DOI:https://doi.org/10.1145/3319502.3374826
