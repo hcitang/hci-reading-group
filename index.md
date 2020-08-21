@@ -23,11 +23,11 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* Aug 19 - Ellie - Mike E.U. Ligthart, Mark A. Neerincx, and Koen V. Hindriks. 2020. Design Patterns for an Interactive Storytelling Robot to Support Children’s Engagement and Agency. In Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’20). Association for Computing Machinery, New York, NY, USA, 409–418. DOI:https://doi.org/10.1145/3319502.3374826
-
 * Aug 26 - Samridhi - Hemant Bhaskar Surale, Aakar Gupta, Mark Hancock, and Daniel Vogel. 2019. TabletInVR: Exploring the Design Space for Using a Multi-Touch Tablet in Virtual Reality. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Paper 13, 1–13. DOI:https://doi.org/10.1145/3290605.3300243
 
 ## Previous Papers
+
+* Aug 19 - Ellie - Mike E.U. Ligthart, Mark A. Neerincx, and Koen V. Hindriks. 2020. Design Patterns for an Interactive Storytelling Robot to Support Children’s Engagement and Agency. In Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’20). Association for Computing Machinery, New York, NY, USA, 409–418. DOI:https://doi.org/10.1145/3319502.3374826
 
 * Aug 12 - Tony - Ihudiya Finda Ogbonnaya-Ogburu, Angela D.R. Smith, Alexandra To, and Kentaro Toyama. 2020. Critical Race Theory for HCI. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–16. DOI:https://doi.org/10.1145/3313831.3376392
 
