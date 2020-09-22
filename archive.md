@@ -1,7 +1,12 @@
 # Past Meetings
 
+## 2020 Fall Term
+
 ## 2020 Spring/Summer Term
 
+* Sept 16 - CHI Hiatus
+
+* Sept 9 - CHI Hiatus
 
 * Sept 2 - Sydney - Martijn J.L. Kors, Gabriele Ferri, Erik D. van der Spek, Cas Ketel, and Ben A.M. Schouten. 2016. A Breathtaking Journey. On the Design of an Empathy-Arousing Mixed-Reality Game. In Proceedings of the 2016 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY ’16). Association for Computing Machinery, New York, NY, USA, 91–104. DOI:https://doi.org/10.1145/2967934.2968110
 

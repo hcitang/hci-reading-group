@@ -23,10 +23,6 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* Sept 9 - CHI Hiatus
-
-* Sept 16 - CHI Hiatus
-
 * Sept 23 - Speed Dating Introductions!
 
 ## Previous Papers
