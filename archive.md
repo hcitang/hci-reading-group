@@ -2,6 +2,9 @@
 
 ## 2020 Fall Term
 
+* Sept 23 - Speed Dating Introductions!
+
+
 ## 2020 Spring/Summer Term
 
 * Sept 16 - CHI Hiatus
