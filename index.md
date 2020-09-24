@@ -19,7 +19,7 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 * Use this as an opportunity to practice research presentations
 
 ## Questions?
-* Please contact [Tony Tang](https://ischool.utoronto.ca/profile/tony-tang/) or [Zhao Zhao](mailto:)
+* Please contact [Tony Tang](https://ischool.utoronto.ca/profile/tony-tang/) or [Zhao Zhao](mailto:zhao.zhao@utoronto.ca)
 
 ## Upcoming Paper Schedule
 
