@@ -2,6 +2,8 @@
 
 ## 2020 Fall Term
 
+* Oct 1 - CHI: Mini-summary of what I submitted: Anastasia, Zhao/Yaxi, Connor, Michelle, Terrance/Tony
+
 * Sept 23 - Speed Dating Introductions!
 
 
