@@ -2,6 +2,8 @@
 
 ## 2020 Fall Term
 
+* Oct 8 - Connor - Evan M Peck, Sofia E Ayuso, and Omar El-Etr. 2019. Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM, 244. DOI: http://dx.doi.org/10.1145/3290605.3300474
+
 * Oct 1 - CHI: Mini-summary of what I submitted: Anastasia, Zhao/Yaxi, Connor, Michelle, Terrance/Tony
 
 * Sept 23 - Speed Dating Introductions!
