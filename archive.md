@@ -2,6 +2,8 @@
 
 ## 2020 Fall Term
 
+* Oct 22 - Michelle - Martinez-Maldonado, R., Echeverria, V., Fernandez Nieto, G., Buckingham Shum, S.: From data to insights: a layered storytelling approach for multimodal learning analytics. In: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, pp. 1–15 https://dl.acm.org/doi/10.1145/3313831.3376148
+
 * Oct 15 - Yaxi - Matthews, M., Gay, G., & Doherty, G. (2014). Taking part: Role-play in the design of therapeutic systems. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 643–652. https://doi.org/10.1145/2556288.2557103
 
 * Oct 8 - Connor - Evan M Peck, Sofia E Ayuso, and Omar El-Etr. 2019. Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM, 244. DOI: http://dx.doi.org/10.1145/3290605.3300474
