@@ -2,6 +2,8 @@
 
 ## 2020 Fall Term
 
+* Oct 29 - Isayah - Michael Correll, Dominik Moritz, and Jeffrey Heer. 2018. Value-Suppressing Uncertainty Palettes. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). Association for Computing Machinery, New York, NY, USA, Paper 642, 1–11. DOI: https://doi.org/10.1145/3173574.3174216
+
 * Oct 22 - Michelle - Martinez-Maldonado, R., Echeverria, V., Fernandez Nieto, G., Buckingham Shum, S.: From data to insights: a layered storytelling approach for multimodal learning analytics. In: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, pp. 1–15 https://dl.acm.org/doi/10.1145/3313831.3376148
 
 * Oct 15 - Yaxi - Matthews, M., Gay, G., & Doherty, G. (2014). Taking part: Role-play in the design of therapeutic systems. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 643–652. https://doi.org/10.1145/2556288.2557103
