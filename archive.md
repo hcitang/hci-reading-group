@@ -2,6 +2,8 @@
 
 ## 2020 Fall Term
 
+* Nov 19 - Velian - Zuckerman, O., Walker, D., Grishko, A., Moran, T., Levy, C., Lisak, B., ... & Erel, H. (2020, April). Companionship Is Not a Function: The Effect of a Novel Robotic Object on Healthy Older Adults' Feelings of" Being-Seen". In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-14). https://dl.acm.org/doi/abs/10.1145/3313831.3376411
+
 * Nov 12 - Brennan - Hansen, D. L., Hughes, A. L., Cram, S., Harker, A. B., Ashton, B., Hirschi, K., ... & Stevens, A. (2020, April). The DELAY Framework: Designing for Extended LAtencY. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-13). DOI:https://doi.org/10.1145/3313831.3376826
 
 * Nov 5 - Terrance - C. Ailie Fraser, Joy O. Kim, Alison Thornsberry, Scott Klemmer, and Mira Dontcheva. 2019. Sharing the Studio: How Creative Livestreaming can Inspire, Educate, and Engage. In Proceedings of the 2019 on Creativity and Cognition (C&C '19). Association for Computing Machinery, New York, NY, USA, 144–155. DOI:https://doi.org/10.1145/3325480.3325485
