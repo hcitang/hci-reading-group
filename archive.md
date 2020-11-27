@@ -2,6 +2,8 @@
 
 ## 2020 Fall Term
 
+* Nov 26 - Tony - Ville Mäkelä, Rivu Radiah, Saleh Alsherif, Mohamed Khamis, Chong Xiao, Lisa Borchert, Albrecht Schmidt, and Florian Alt. 2020. Virtual Field Studies: Conducting Studies on Public Displays in Virtual Reality. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/3313831.3376796
+
 * Nov 19 - Velian - Zuckerman, O., Walker, D., Grishko, A., Moran, T., Levy, C., Lisak, B., ... & Erel, H. (2020, April). Companionship Is Not a Function: The Effect of a Novel Robotic Object on Healthy Older Adults' Feelings of" Being-Seen". In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-14). https://dl.acm.org/doi/abs/10.1145/3313831.3376411
 
 * Nov 12 - Brennan - Hansen, D. L., Hughes, A. L., Cram, S., Harker, A. B., Ashton, B., Hirschi, K., ... & Stevens, A. (2020, April). The DELAY Framework: Designing for Extended LAtencY. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-13). DOI:https://doi.org/10.1145/3313831.3376826
