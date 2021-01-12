@@ -5,7 +5,7 @@ The iSchool HCI/UX reading group is an informal reading group that meets once a 
 We welcome faculty members, post-docs, PhD students, MI students, BI students and anyone else interested in HCI/UX issues. Most importantly, we welcome first-time attendees at every meeting.
 
 ## Meetings
-* Thursdays, 2:00pm-3:00pm, online!
+* Tuesdays, 4:00pm-5:00pm, online!
 
 ## What you should expect
 * A 10-15 minutes mini-presentation about the paper being discussed that week by someone leading the discussion.
@@ -23,12 +23,42 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
+* Jan 19 - Jiannan - Klemen Lilija, Henning Pohl, and Kasper Hornbæk. 2020. Who Put That There? Temporal Navigation of Spatial Recordings by Direct Manipulation. Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, New York, NY, USA, 1–11. DOI:https://doi.org/10.1145/3313831.3376604
 
-* Dec 17 - Among Us
+* Jan 26
+
+* Feb 2 - Samridhi
+
+* Feb 9
+
+* Feb 16
+
+* Feb 23
+
+* Mar 2 - Brennan
+
+* Mar 9 - Audrey
+
+* Mar 16
+
+* Mar 23 - Tony
+
+* Mar 30 - Sho
+
+* Apr 6
+
+* Apr 13
+
+* Apr 20
+
+* Apr 27
+
 
 
 
 ## Previous Papers
+
+* Dec 17 - Among Us
 
 * Dec 10 - Among Us
 
