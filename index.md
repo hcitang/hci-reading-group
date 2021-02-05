@@ -25,7 +25,7 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 * Feb 9 - Ellie - John Vilk and Naomi T. Fitter. 2020. Comedians in Cafes Getting Data: Evaluating Timing and Adaptivity in Real-World Robot Comedy Performance. In Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI '20). Association for Computing Machinery, New York, NY, USA, 223–231. DOI:https://doi.org/10.1145/3319502.3374780
 
-* Feb 16 - Yaxi
+* Feb 16 - Yaxi - C. Estelle Smith, Eduardo Nevarez, and Haiyi Zhu. 2020. Disseminating Research News in HCI: Perceived Hazards, How-To's, and Opportunities for Innovation. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13. DOI:https://doi.org/10.1145/3313831.3376744
 
 * Feb 23 - Chu
 
@@ -39,13 +39,13 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 * Mar 30 - Sho
 
-* Apr 6
+* Apr 6 - Angela
 
 * Apr 13 - Erxun
 
-* Apr 20 - Angela
+* Apr 20 - Priyank
 
-* Apr 27
+* Apr 27 - Anastasia
 
 
 
