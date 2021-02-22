@@ -23,11 +23,8 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 ## Upcoming Paper Schedule
 
-* Feb 9 - Ellie - John Vilk and Naomi T. Fitter. 2020. Comedians in Cafes Getting Data: Evaluating Timing and Adaptivity in Real-World Robot Comedy Performance. In Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI '20). Association for Computing Machinery, New York, NY, USA, 223–231. DOI:https://doi.org/10.1145/3319502.3374780
 
-* Feb 16 - reading week
-
-* Feb 23 - Chu
+* Feb 23 - Chu - Marek Dvorožňák, Daniel Sýkora, Cassidy Curtis, Brian Curless, Olga Sorkine-Hornung, and David Salesin. 2020. Monster mash: a single-view approach to casual 3D modeling and animation. ACM Trans. Graph. 39, 6, Article 214 (December 2020), 12 pages. DOI:https://doi.org/10.1145/3414685.3417805
 
 * Mar 2 - Brennan
 
@@ -51,6 +48,10 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 
 ## Previous Papers
+
+* Feb 16 - reading week
+
+* Feb 9 - Ellie - John Vilk and Naomi T. Fitter. 2020. Comedians in Cafes Getting Data: Evaluating Timing and Adaptivity in Real-World Robot Comedy Performance. In Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI '20). Association for Computing Machinery, New York, NY, USA, 223–231. DOI:https://doi.org/10.1145/3319502.3374780
 
 * Feb 2 - Samridhi - Terrell Glenn, Ananya Ipsita, Caleb Carithers, Kylie Peppler, and Karthik Ramani. 2020. StoryMakAR: Bringing Stories to Life With An Augmented Reality & Physical Prototyping Toolkit for Youth. Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, New York, NY, USA, 1–14. DOI:https://doi.org/10.1145/3313831.3376790
 
