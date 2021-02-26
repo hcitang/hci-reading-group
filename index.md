@@ -24,9 +24,7 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 ## Upcoming Paper Schedule
 
 
-* Feb 23 - Chu - Marek Dvorožňák, Daniel Sýkora, Cassidy Curtis, Brian Curless, Olga Sorkine-Hornung, and David Salesin. 2020. Monster mash: a single-view approach to casual 3D modeling and animation. ACM Trans. Graph. 39, 6, Article 214 (December 2020), 12 pages. DOI:https://doi.org/10.1145/3414685.3417805
-
-* Mar 2 - Brennan
+* Mar 2 - Brennan - Minori Manabe, Daisuke Uriu, Takeshi Funatsu, Atsushi Izumihara, Takeru Yazaki, I-Hsin Chen, Yi-Ya Liao, Kang-Yi Liu, Ju-Chun Ko, Zendai Kashino, Atsushi Hiyama, and Masahiko Inami. 2020. Exploring in the City with Your Personal Guide: Design and User Study of T-Leap, a Telepresence System. In 19th International Conference on Mobile and Ubiquitous Multimedia (MUM 2020). ACM, New York, NY, USA, 96–106. DOI:https://doi.org/10.1145/3428361.3428382
 
 * Mar 9 - Audrey
 
@@ -48,6 +46,8 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 
 ## Previous Papers
+
+* Feb 23 - Chu - Marek Dvorožňák, Daniel Sýkora, Cassidy Curtis, Brian Curless, Olga Sorkine-Hornung, and David Salesin. 2020. Monster mash: a single-view approach to casual 3D modeling and animation. ACM Trans. Graph. 39, 6, Article 214 (December 2020), 12 pages. DOI:https://doi.org/10.1145/3414685.3417805
 
 * Feb 16 - reading week
 
