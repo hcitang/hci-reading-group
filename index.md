@@ -24,8 +24,6 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 ## Upcoming Paper Schedule
 
 
-* Mar 9 - Audrey - Otmar Hilliges, Lucia Terrenghi, Sebastian Boring, David Kim, Hendrik Richter, and Andreas Butz. 2007. Designing for collaborative creative problem solving. In Proceedings of the 6th ACM SIGCHI conference on Creativity & cognition (C&C '07). Association for Computing Machinery, New York, NY, USA, 137–146. DOI:https://doi.org/10.1145/1254960.1254980
-
 * Mar 16 - Yaxi - C. Estelle Smith, Eduardo Nevarez, and Haiyi Zhu. 2020. Disseminating Research News in HCI: Perceived Hazards, How-To's, and Opportunities for Innovation. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13. DOI:https://doi.org/10.1145/3313831.3376744
 
 * Mar 23 - Tony
@@ -43,6 +41,8 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 
 ## Previous Papers
+
+* Mar 9 - Audrey - Otmar Hilliges, Lucia Terrenghi, Sebastian Boring, David Kim, Hendrik Richter, and Andreas Butz. 2007. Designing for collaborative creative problem solving. In Proceedings of the 6th ACM SIGCHI conference on Creativity & cognition (C&C '07). Association for Computing Machinery, New York, NY, USA, 137–146. DOI:https://doi.org/10.1145/1254960.1254980
 
 * Mar 2 - Brennan - Minori Manabe, Daisuke Uriu, Takeshi Funatsu, Atsushi Izumihara, Takeru Yazaki, I-Hsin Chen, Yi-Ya Liao, Kang-Yi Liu, Ju-Chun Ko, Zendai Kashino, Atsushi Hiyama, and Masahiko Inami. 2020. Exploring in the City with Your Personal Guide: Design and User Study of T-Leap, a Telepresence System. In 19th International Conference on Mobile and Ubiquitous Multimedia (MUM 2020). ACM, New York, NY, USA, 96–106. DOI:https://doi.org/10.1145/3428361.3428382
 
