@@ -24,9 +24,7 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 ## Upcoming Paper Schedule
 
 
-* Mar 16 - Yaxi - C. Estelle Smith, Eduardo Nevarez, and Haiyi Zhu. 2020. Disseminating Research News in HCI: Perceived Hazards, How-To's, and Opportunities for Innovation. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13. DOI:https://doi.org/10.1145/3313831.3376744
-
-* Mar 23 - Tony
+* Mar 23 - Tony - Joshua McVeigh-Schultz, Max Kreminski, Keshav Prasad, Perry Hoberman, and Scott S. Fisher. 2018. Immersive Design Fiction: Using VR to Prototype Speculative Interfaces and Interaction Rituals within a Virtual Storyworld. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). Association for Computing Machinery, New York, NY, USA, 817–829. DOI:https://doi.org/10.1145/3196709.3196793
 
 * Mar 30 - Sho
 
@@ -41,6 +39,8 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 
 ## Previous Papers
+
+* Mar 16 - Yaxi - C. Estelle Smith, Eduardo Nevarez, and Haiyi Zhu. 2020. Disseminating Research News in HCI: Perceived Hazards, How-To's, and Opportunities for Innovation. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13. DOI:https://doi.org/10.1145/3313831.3376744
 
 * Mar 9 - Audrey - Otmar Hilliges, Lucia Terrenghi, Sebastian Boring, David Kim, Hendrik Richter, and Andreas Butz. 2007. Designing for collaborative creative problem solving. In Proceedings of the 6th ACM SIGCHI conference on Creativity & cognition (C&C '07). Association for Computing Machinery, New York, NY, USA, 137–146. DOI:https://doi.org/10.1145/1254960.1254980
 
