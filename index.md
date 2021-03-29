@@ -24,9 +24,7 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 ## Upcoming Paper Schedule
 
 
-* Mar 23 - Tony - Joshua McVeigh-Schultz, Max Kreminski, Keshav Prasad, Perry Hoberman, and Scott S. Fisher. 2018. Immersive Design Fiction: Using VR to Prototype Speculative Interfaces and Interaction Rituals within a Virtual Storyworld. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). Association for Computing Machinery, New York, NY, USA, 817–829. DOI:https://doi.org/10.1145/3196709.3196793
-
-* Mar 30 - Sho
+* Mar 30 - Sho - Rebecca Gulotta, David B. Gerritsen, Aisling Kelliher, and Jodi Forlizzi. 2016. Engaging with Death Online: An Analysis of Systems that Support Legacy-Making, Bereavement, and Remembrance. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS '16). Association for Computing Machinery, New York, NY, USA, 736–748. DOI:https://doi.org/10.1145/2901790.2901802
 
 * Apr 6 - Angela
 
@@ -39,6 +37,8 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 
 ## Previous Papers
+
+* Mar 23 - Tony - Joshua McVeigh-Schultz, Max Kreminski, Keshav Prasad, Perry Hoberman, and Scott S. Fisher. 2018. Immersive Design Fiction: Using VR to Prototype Speculative Interfaces and Interaction Rituals within a Virtual Storyworld. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). Association for Computing Machinery, New York, NY, USA, 817–829. DOI:https://doi.org/10.1145/3196709.3196793
 
 * Mar 16 - Yaxi - C. Estelle Smith, Eduardo Nevarez, and Haiyi Zhu. 2020. Disseminating Research News in HCI: Perceived Hazards, How-To's, and Opportunities for Innovation. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13. DOI:https://doi.org/10.1145/3313831.3376744
 
