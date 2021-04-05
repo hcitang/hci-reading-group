@@ -24,9 +24,7 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 ## Upcoming Paper Schedule
 
 
-* Mar 30 - Sho - Rebecca Gulotta, David B. Gerritsen, Aisling Kelliher, and Jodi Forlizzi. 2016. Engaging with Death Online: An Analysis of Systems that Support Legacy-Making, Bereavement, and Remembrance. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS '16). Association for Computing Machinery, New York, NY, USA, 736–748. DOI:https://doi.org/10.1145/2901790.2901802
-
-* Apr 6 - Angela
+* Apr 6 - Angela - Susanne Putze, Dmitry Alexandrovsky, Felix Putze, Sebastian Höffner, Jan David Smeddinck, and Rainer Malaka. 2020. Breaking The Experience: Effects of Questionnaires in VR User Studies. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/3313831.3376144
 
 * Apr 13 - Erxun
 
@@ -37,6 +35,8 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 
 ## Previous Papers
+
+* Mar 30 - Sho - Rebecca Gulotta, David B. Gerritsen, Aisling Kelliher, and Jodi Forlizzi. 2016. Engaging with Death Online: An Analysis of Systems that Support Legacy-Making, Bereavement, and Remembrance. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS '16). Association for Computing Machinery, New York, NY, USA, 736–748. DOI:https://doi.org/10.1145/2901790.2901802
 
 * Mar 23 - Tony - Joshua McVeigh-Schultz, Max Kreminski, Keshav Prasad, Perry Hoberman, and Scott S. Fisher. 2018. Immersive Design Fiction: Using VR to Prototype Speculative Interfaces and Interaction Rituals within a Virtual Storyworld. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). Association for Computing Machinery, New York, NY, USA, 817–829. DOI:https://doi.org/10.1145/3196709.3196793
 
