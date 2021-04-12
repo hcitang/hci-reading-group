@@ -24,9 +24,7 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 ## Upcoming Paper Schedule
 
 
-* Apr 6 - Angela - Susanne Putze, Dmitry Alexandrovsky, Felix Putze, Sebastian Höffner, Jan David Smeddinck, and Rainer Malaka. 2020. Breaking The Experience: Effects of Questionnaires in VR User Studies. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/3313831.3376144
-
-* Apr 13 - Erxun
+* Apr 13 - Erxun - Khowaja, K., Al-Thani, D., Hassan, A. O., Shah, A., & Salim, S. S. (2020, July). Mobile Augmented Reality App for Children with Autism Spectrum Disorder (ASD) to Learn Vocabulary (MARVoc): From the Requirement Gathering to Its Initial Evaluation. In International Conference on Human-Computer Interaction (pp. 424-437). Springer, Cham. https://link.springer.com/chapter/10.1007%2F978-3-030-50164-8_31
 
 * Apr 20 - Priyank
 
@@ -35,6 +33,8 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 
 
 ## Previous Papers
+
+* Apr 6 - Angela - Susanne Putze, Dmitry Alexandrovsky, Felix Putze, Sebastian Höffner, Jan David Smeddinck, and Rainer Malaka. 2020. Breaking The Experience: Effects of Questionnaires in VR User Studies. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/3313831.3376144
 
 * Mar 30 - Sho - Rebecca Gulotta, David B. Gerritsen, Aisling Kelliher, and Jodi Forlizzi. 2016. Engaging with Death Online: An Analysis of Systems that Support Legacy-Making, Bereavement, and Remembrance. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS '16). Association for Computing Machinery, New York, NY, USA, 736–748. DOI:https://doi.org/10.1145/2901790.2901802
 
