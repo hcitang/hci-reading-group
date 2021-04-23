@@ -24,15 +24,15 @@ We welcome faculty members, post-docs, PhD students, MI students, BI students an
 ## Upcoming Paper Schedule
 
 
-* Apr 13 - Erxun - Khowaja, K., Al-Thani, D., Hassan, A. O., Shah, A., & Salim, S. S. (2020, July). Mobile Augmented Reality App for Children with Autism Spectrum Disorder (ASD) to Learn Vocabulary (MARVoc): From the Requirement Gathering to Its Initial Evaluation. In International Conference on Human-Computer Interaction (pp. 424-437). Springer, Cham. https://link.springer.com/chapter/10.1007%2F978-3-030-50164-8_31
-
-* Apr 20 - Priyank
-
-* Apr 27 - Anastasia
+* Apr 27 - Anastasia - Anastasia Kuzminykh, Jenny Sun, Nivetha Govindaraju, Jeff Avery, and Edward Lank. 2020. Genie in the Bottle: Anthropomorphized Perceptions of Conversational Agents. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13. DOI:https://doi.org/10.1145/3313831.3376665
 
 
 
 ## Previous Papers
+
+* Apr 20 - Priyank - cancelled
+
+* Apr 13 - Erxun - Khowaja, K., Al-Thani, D., Hassan, A. O., Shah, A., & Salim, S. S. (2020, July). Mobile Augmented Reality App for Children with Autism Spectrum Disorder (ASD) to Learn Vocabulary (MARVoc): From the Requirement Gathering to Its Initial Evaluation. In International Conference on Human-Computer Interaction (pp. 424-437). Springer, Cham. https://link.springer.com/chapter/10.1007%2F978-3-030-50164-8_31
 
 * Apr 6 - Angela - Susanne Putze, Dmitry Alexandrovsky, Felix Putze, Sebastian Höffner, Jan David Smeddinck, and Rainer Malaka. 2020. Breaking The Experience: Effects of Questionnaires in VR User Studies. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/3313831.3376144
 
